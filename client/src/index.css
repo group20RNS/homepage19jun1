@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background-image: url(https://res.cloudinary.com/sachinbisgod/image/upload/v1607020880/rm27-tong-62-nature_thm8ne.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.blink_me {
+  animation: blinker 10s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
+#outerDivWrapper, #outerDiv {
+  height: 50%;
+  margin: 0em;
+  width:100%;
+  padding: left;
+}
+
+.scrolls {
+  width:100%;
+  height:400px;
+  overflow: scroll;
+ 
+ 
+  
+}
+
+.headacc{
+
+  border-collapse: collapse;
+  background-color:darksalmon;
+  
+}
+.Collapsible__trigger{
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 25px;
+  
+  margin-left: 5px;
+}
