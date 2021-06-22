@@ -19,7 +19,7 @@ export default class ExercisesList extends Component {
     <div class="caption">
       <h3>Bee creative studios</h3>
       <p>for vfx,animations,and production house</p>
-      <p><a href="https://beecreativestudios-com.herokuapp.com" target="#" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a></p>
+      <p><a href="https://beecreativestudios-com.herokuapp.com" target="#" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>    <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20finalproject@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20finalproject@gmail.com?subject=Mail to shop" >Email Us using app</a></p>
     </div>
   </div>
 </div>
@@ -47,7 +47,7 @@ export default class ExercisesList extends Component {
     <div class="caption">
       <h3>Shopping</h3>
       <p>shop anything you want</p>
-      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="#" class="btn btn-default" role="button">Call</a></p>
+      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>    <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20finalproject@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20finalproject@gmail.com?subject=Mail to shop" >Email Us using app</a></p>
     </div>
   </div>
 </div>
@@ -77,7 +77,7 @@ export default class ExercisesList extends Component {
     <div class="caption">
       <h3>Health care </h3>
       <p>Our wish is to not see you second time</p>
-      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="#" class="btn btn-default" role="button">Call</a></p>
+      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>     <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20project@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20project@gmail.com?subject=Mail from healthcare" >Email Us using app</a></p>
     </div>
   </div>
 </div>
@@ -108,8 +108,10 @@ export default class ExercisesList extends Component {
     <img src="https://res.cloudinary.com/sachinbisgod/image/upload/v1608904568/download_2_buurqc.jpg" />
     <div class="caption">
       <h3> E pay</h3>
-      <p>online transaction is now at your mind with mind speed </p>
-      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="#" class="btn btn-default" role="button">Call</a></p>
+      <p>online transaction is now at your mind with mind speed    </p>
+      <p><a href="#" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>      <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20finalproject@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20finalproject@gmail.com?subject=Mail to shop" >Email Us using app</a></p>
+ 
+
     </div>
   </div>
 </div>
