@@ -10,7 +10,7 @@ const port = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-const uri =  'mongodb://localhost:27017/expendita';//process.env.ATLAS_URI;
+const uri = process.env.ATLAS_URI;/// 'mongodb://localhost:27017/expendita';
 mongoose.connect(uri, {
   useNewUrlParser: true,
   useCreateIndex: true,
