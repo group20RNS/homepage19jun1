@@ -18,7 +18,7 @@ router.route('/add').post((req, res) => {
   const clientBuy = Number(req.body.clientBuy);
   const client_clients = Number(req.body.client_clients);
   const clientbio = req.body.clientbio;
-const prd="10lk";
+const prd=req.body.prd;
 
   const newClientapproval = new Client({
     clientname,

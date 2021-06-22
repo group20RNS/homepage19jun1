@@ -62,6 +62,11 @@ export default class Cl_pend_req extends Component {
       alert("verified");
     }
     else{
+
+      this.setState({
+        admin:false
+       }
+       )
       alert("re-enter password");
     }
   }

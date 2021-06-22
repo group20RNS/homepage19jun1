@@ -23,7 +23,7 @@ export default class CreateClient extends Component {
       clientname: "",
       clientcontact: "",
       clientaddress:"",
-      clientmode:"",
+      clientmode:"seller",
       clientsell:0,
       clientBuy:0,
       client_clients:0,
@@ -208,7 +208,7 @@ onChangeClientmode(e) {
             <label>Join as: </label>
             <select
               type="text"
-              required
+              
               className="form-control"
               value={ this.state.clientmode}
               onChange={this.onChangeClientmode}
