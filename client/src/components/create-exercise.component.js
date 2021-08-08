@@ -77,7 +77,7 @@ export default class ExercisesList extends Component {
     <div class="caption">
       <h3>Health care </h3>
       <p>Our wish is to not see you second time</p>
-      <p><a href=" https://bf1483706e8e.ngrok.io/Hospital-Management-master%20(1)/Hospital-Management-master/" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>     <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20project@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20project@gmail.com?subject=Mail from healthcare" >Email Us using app</a></p>
+      <p><a href=" https://hospital-oct.herokuapp.com/" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>     <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20project@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20project@gmail.com?subject=Mail from healthcare" >Email Us using app</a></p>
     </div>
   </div>
 </div>
@@ -109,7 +109,7 @@ export default class ExercisesList extends Component {
     <div class="caption">
       <h3> E pay</h3>
       <p>online transaction is now at your mind with mind speed    </p>
-      <p><a href="  https://bf1483706e8e.ngrok.io/Hospital-Management-master%20(1)/finalyearproject/" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>      <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20finalproject@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20finalproject@gmail.com?subject=Mail to shop" >Email Us using app</a></p>
+      <p><a href="  https://payment-grp20.herokuapp.com/" class="btn btn-primary" role="button">Visit</a> <a href="tel:+91-831-064-2366" class="btn btn-default" role="button">Call</a>      <a  class="btn btn-default" role="button" href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=group20finalproject@gmail.com" target="_blank">Mail</a>  <a href="mailto:group20finalproject@gmail.com?subject=Mail to shop" >Email Us using app</a></p>
  
 
     </div>
