@@ -24,7 +24,7 @@ export default class HomeScreen extends Component {
       <h5><b> MOHAMMED ZABIULLA </b>    -- <b>1RN17CS052</b> </h5>
        <br></br>
        <h3 id="aboutheding" style={{color: "darkmagenta"}}>Guided By</h3>
-       <h5><b> Dr. BHAVANISHANKAR K. </b>    -- <b>ASSISTANT  PROFFESSOR  DEPT. OF CSE RNSIT </b> </h5>
+       <h5><b> Dr. BHAVANISHANKAR K. </b>    -- <b>ASSOC.  PROFFESSOR  DEPT. OF CSE RNSIT </b> </h5>
       
        <h3 id="aboutheding" style={{color: "darkmagenta"}}>ABOUT PROJECT</h3>
       
