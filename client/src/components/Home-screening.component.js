@@ -28,7 +28,7 @@ export default class HomeScreen extends Component {
       
        <h3 id="aboutheding" style={{color: "darkmagenta"}}>ABOUT PROJECT</h3>
       
-       <p  style={{color: "black"}}><b>This project is all about our charity which contain several fields of service such as medical,e commerce,visual studios,payment sector etc..</b>.</p>
+       <p  style={{color: "black"}}><b>This project is all about our organization which contains several fields of service such as medical,e commerce,visual studios,payment sector etc..</b>.</p>
 
 
       </div>
